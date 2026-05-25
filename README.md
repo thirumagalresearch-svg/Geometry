@@ -8,7 +8,7 @@ A geometry-aware selfie perspective rectification and face restoration pipeline.
 
 | Original Selfie | Rectified Result |
 |:---:|:---:|
-| ![Original Distorted  Selfie](test_case/test1_image.png) | ![Rectified Portrait Output](test_case/test1_result.png) |
+| ![Original Distorted  Selfie](https://raw.githubusercontent.com/thirumagalresearch-svg/Geometry/refs/heads/main/test_case/test1_image.png) | ![Rectified Portrait Output](test_case/test1_result.png) |
 
 | Diagnostic Visualization |
 |:---:|
