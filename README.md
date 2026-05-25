@@ -12,7 +12,7 @@ A geometry-aware selfie perspective rectification and face restoration pipeline.
 
 | Diagnostic Visualization |
 |:---:|
-| ![Debug Visualization](test_case/test1_result.png) |
+| ![Debug Visualization](test_case/tes1_result.png) |
 
 ---
 
