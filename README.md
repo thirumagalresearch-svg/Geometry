@@ -8,11 +8,11 @@ A geometry-aware selfie perspective rectification and face restoration pipeline.
 
 | Original Selfie | Rectified Result |
 |:---:|:---:|
-| ![Original Distorted Selfie](datasets/input_sample.jpg) | ![Rectified Portrait Output](datasets/output_rectified.png) |
+| ![Original Distorted Selfie](test_case/tes1_image.png) | ![Rectified Portrait Output](test_case/tes1_result.png) |
 
 | Diagnostic Visualization |
 |:---:|
-| ![Debug Visualization](datasets/debug_vis.png) |
+| ![Debug Visualization](test_case/tes1_result.png) |
 
 ---
 
